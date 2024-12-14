@@ -1,0 +1,50 @@
+{
+    "sections": [
+      {
+        "name": "Pizza or Pasta",
+        "questions": [
+          {
+            "question": "Do you prefer cheese on your dish?",
+            "options": [
+              { "text": "Yes", "points": 5 },
+              { "text": "No", "points": 0 }
+            ]
+          },
+          {
+            "question": "Do you like tomato sauce?",
+            "options": [
+              { "text": "Yes", "points": 5 },
+              { "text": "No", "points": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Donut or Bread",
+        "questions": [
+          {
+            "question": "Do you like your food sweet?",
+            "options": [
+              { "text": "Yes", "points": 5 },
+              { "text": "No", "points": 0 }
+            ]
+          },
+          {
+            "question": "Do you like your food sweet?",
+            "options": [
+              { "text": "Yes", "points": 5 },
+              { "text": "No", "points": 0 }
+            ]
+          },
+          {
+            "question": "done?",
+            "options": [
+              { "text": "Yes", "points": 5 },
+              { "text": "No", "points": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

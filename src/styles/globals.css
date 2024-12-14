@@ -1,0 +1,29 @@
+/* styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+@font-face {
+  font-family: 'Dream Avenue';
+  src: url('/fonts/FontsFree-Net-Dream-Avenue.ttf') format('truetype');
+  font-weight: 100; /* Sesuaikan dengan bobot font yang kamu pakai */
+  font-style: normal;
+}
+
+/* Menambahkan font untuk h1 dan h2 */
+h1, h2 {
+  font-family: 'Dream Avenue', sans-serif; /* Menggunakan Dream Avenue untuk h1 dan h2 */
+}
+
+h2{
+  font-size: 5vw;
+}
+
+
