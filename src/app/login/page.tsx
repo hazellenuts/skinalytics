@@ -15,11 +15,11 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="container mx-auto p-4">
+    <div className="container mx-auto p-4 items-center flex flex-col">
       <div className="breadcrumbs mb-4">Home / Login</div>
-      <h1 className="text-2xl font-bold mb-4">Login</h1>
+      <h2 className="mb-4">Login</h2>
       <form onSubmit={handleSubmit} className="space-y-4">
-        <div>
+        <div className="outline p-8 rounded-3xl flex flex-col gap-6">
           <input
             type="email"
             placeholder="Email"
@@ -28,8 +28,7 @@ export default function LoginPage() {
             className="p-2 border rounded w-full"
             required
           />
-        </div>
-        <div>
+
           <input
             type="password"
             placeholder="Password"
