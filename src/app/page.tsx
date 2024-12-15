@@ -15,8 +15,8 @@ export default function LandingPage() {
           }}
         >
           <div className="p-8">
-            <h3 className="text-4xl font-bold mb-4 sm:text-3xl lg:text-5xl">
-              your skin’s best, <br />
+            <h3 className="text-4xl font-bold mb-4 sm:text-3xl lg:text-5xl font-poppins">
+              Your skin’s best, <br />
               thoughtful choice.
             </h3>
             <p className="mb-6 text-sm sm:text-base lg:text-lg">

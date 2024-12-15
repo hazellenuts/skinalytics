@@ -1,7 +1,6 @@
 // components/organisms/Navbar.tsx
 "use client";
 import Link from "next/link";
-import Button from "../atoms/Button";
 import { useRouter } from "next/navigation";
 
 export default function Navbar() {

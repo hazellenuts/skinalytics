@@ -1,6 +1,5 @@
 // app/dashboard/layout.tsx
 import Breadcrumbs from "@/components/organisms/Breadcrumbs";
-import Navbar from "@/components/organisms/Navbar";
 import Sidebar from "@/components/organisms/Sidebar";
 
 export default function DashboardLayout({

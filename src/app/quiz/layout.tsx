@@ -1,4 +1,3 @@
-import Breadcrumbs from "@/components/organisms/Breadcrumbs"; // Sesuaikan dengan path breadcrumbs
 
 export default function QuizLayout({
   children,

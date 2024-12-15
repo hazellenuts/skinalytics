@@ -13,9 +13,6 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
-      fontFamily:{
-        dream: ["var(--font-dream)"]
-      }
       
     },
   },
